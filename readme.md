@@ -1,11 +1,11 @@
 ![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi 👋, I'm Hanzla Sibghat</h1>
-<h3 align="center">A passionate frontend developer and Master's student in Munich, Germany</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+<h3 align="center">A passionate frontend developer</h3>
 <h3 align="center">Full Stack Developer | Frontend Specialist | MERN Stack Expert</h3>
 
 <p align="center">
-Full Stack Developer with 1.5 years of experience, focusing on frontend development using React and Next.js. Skilled in building scalable, user-friendly applications with an eye for seamless user experiences. Passionate about integrating advanced technologies to solve complex challenges and bring innovative projects to life.
+Full Stack Developer with 2+ years of experience, focusing on frontend development using React and Next.js. Skilled in building scalable, user-friendly applications with an eye for seamless user experiences. Passionate about integrating advanced technologies to solve complex challenges and bring innovative projects to life.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzla-sib&label=Profile%20views&color=0e75b6&style=flat" alt="hanzla-sib" /> </p>
