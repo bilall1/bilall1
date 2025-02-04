@@ -8,7 +8,7 @@
 Full Stack Developer with 2+ years of experience, focusing on frontend development using React and Next.js. Skilled in building scalable, user-friendly applications with an eye for seamless user experiences. Passionate about integrating advanced technologies to solve complex challenges and bring innovative projects to life.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzla-sib&label=Profile%20views&color=0e75b6&style=flat" alt="hanzla-sib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilall1&label=Profile%20views&color=0e75b6&style=flat" alt="bilall1" /> </p>
 
 
 
