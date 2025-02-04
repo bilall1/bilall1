@@ -17,7 +17,7 @@ Full Stack Developer with 2+ years of experience, focusing on frontend developme
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mubilal.vercel.app/)
 
-- 💬 Ask me about **react, next, c++, Tailwind, Material Ui**
+- 💬 Ask me about **React, Next, Go, Tailwind, Material Ui, **
 
 - 📫 How to reach me **muhammad.bilal0636@gmail.com**
 
