@@ -13,7 +13,7 @@ Full Stack Developer with 2+ years of experience, focusing on frontend developme
 
 
 
-- 🌱 I’m currently learning **NextJs,Stripe,Drizzel Orm,Prisma Orm,Neon Postgress DB,TanStack,Clerk Auth,Sockets,ShadCn**
+- 🌱 I’m currently learning **Devops,CI/CD,Deployement,AWS,Auth,Sockets,and much more**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mubilal.vercel.app/)
 
