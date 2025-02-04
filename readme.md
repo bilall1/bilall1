@@ -1,7 +1,7 @@
 ![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 <h3 align="center">Full Stack Developer | Frontend Specialist | MERN Stack Expert</h3>
 
 <p align="center">
@@ -16,13 +16,13 @@ Full Stack Developer with 2+ years of experience, focusing on frontend developme
 
 - 🌱 I’m currently learning **NextJs,Stripe,Drizzel Orm,Prisma Orm,Neon Postgress DB,TanStack,Clerk Auth,Sockets,ShadCn**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://hanzla-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mubilal.vercel.app/)
 
 - 💬 Ask me about **react, next, c++, Tailwind, Material Ui**
 
-- 📫 How to reach me **hanzlasib24@gmail.com**
+- 📫 How to reach me **muhammad.bilal0636@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/hanzlasibghat/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/mbilal19/)
 
 
 
