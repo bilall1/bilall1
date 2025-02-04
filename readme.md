@@ -68,10 +68,9 @@ Full Stack Developer with 2+ years of experience, focusing on frontend developme
 
  ## 📫 &nbsp;My Contacts
 <p align="left">
-<a href="https://twitter.com/hanzlasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanzlasib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hanzla-s-369883219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanzla-s-369883219/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hanzla_hs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hanzla_hs/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hanzlasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hanzlasib" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mbilal19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mbilal19/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bilalview/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bilalview/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/muhammad_bilal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/muhammad_bilal02" height="30" width="40" /></a>
 </p>
 
 <p align="center">
