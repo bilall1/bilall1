@@ -2,10 +2,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A passionate software engineer</h3>
-<h3 align="center">Full Stack Developer | Frontend Specialist | MERN Stack Expert</h3>
+<h3 align="center">Full Stack Developer | Frontend Specialist | DevOps Enthusiast</h3>
 
 <p align="center">
-Full Stack Developer with 2+ years of experience, focusing on frontend development using React and Next.js. Skilled in building scalable, user-friendly applications with an eye for seamless user experiences. Passionate about integrating advanced technologies to solve complex challenges and bring innovative projects to life.
+Enthusiastic Full Stack Developer with 2+ years of experience and a strong foundation in web development. Specializing in React and Next.js, I excel at building scalable, user-friendly applications with seamless user experiences. Passionate about integrating advanced technologies to solve complex challenges and drive innovation across both front-end and back-end development.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilall1&label=Profile%20views&color=0e75b6&style=flat" alt="bilall1" /> </p>
