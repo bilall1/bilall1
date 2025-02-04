@@ -17,7 +17,7 @@ Enthusiastic Full Stack Developer with 2+ years of experience and a strong found
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mubilal.vercel.app/)
 
-- 💬 Ask me about **React, Next, Go, Tailwind, Material Ui, **
+- 💬 Ask me about **React, Next, Go, Tailwind, Pipelines, End to End Tests **
 
 - 📫 How to reach me **muhammad.bilal0636@gmail.com**
 
