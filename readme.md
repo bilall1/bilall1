@@ -57,11 +57,11 @@ Full Stack Developer with 2+ years of experience, focusing on frontend developme
 ## ⚡Recent GitHub Activity
  
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanzla-sib&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bilall1&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hanzla-sib)
+![](https://github-profile-trophy.vercel.app/?username=bilall1)
 
 
 
