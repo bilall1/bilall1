@@ -47,9 +47,9 @@ Full Stack Developer with 2+ years of experience, focusing on frontend developme
 
 
 <p align="center">  
-<a href="https://github.com/hanzla-sib">
+<a href="https://github.com/bilall1">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanzla-sib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilall1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph"/>
 </a>
 </p>
 
