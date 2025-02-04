@@ -12,7 +12,6 @@ Full Stack Developer with 2+ years of experience, focusing on frontend developme
 
 
 
-<p align="left"> <a href="https://twitter.com/hanzlasib" target="blank"><img src="https://img.shields.io/twitter/follow/hanzlasib?logo=twitter&style=for-the-badge" alt="hanzlasib" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs,Stripe,Drizzel Orm,Prisma Orm,Neon Postgress DB,TanStack,Clerk Auth,Sockets,ShadCn**
 
