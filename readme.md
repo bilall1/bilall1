@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A passionate software engineer</h3>
 <h3 align="center">Full Stack Developer | Frontend Specialist | DevOps Enthusiast</h3>
-
+<!-- dd -->
 <p align="center">
 Enthusiastic Full Stack Developer with 2+ years of experience and a strong foundation in web development. Specializing in React and Next.js, I excel at building scalable, user-friendly applications with seamless user experiences. Passionate about integrating advanced technologies to solve complex challenges and drive innovation across both front-end and back-end development.
 </p>
