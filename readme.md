@@ -1,54 +1,49 @@
 ![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">Full Stack Engineer | AI/ML Developer | Agentic AI Architect</h3>
-<h3 align="center">Building Intelligent Autonomous Systems & Scalable Web Applications</h3>
+<h3 align="center">Full Stack Developer | Frontend Specialist | DevOps Enthusiast</h3>
+<h3 align="center">Building Scalable Web Applications with AI Integration</h3>
 <!-- dd -->
 <p align="center">
-Full Stack Engineer with 2+ years of experience building production-grade applications and intelligent AI systems. Specialized in developing <strong>agentic AI solutions</strong>, autonomous systems, and scalable web applications using modern frameworks. Expertise in React, Next.js, Python, and LangChain for creating multi-agent workflows, RAG pipelines, and LLM-powered applications. Passionate about bridging the gap between cutting-edge AI research and real-world deployments.
+Experienced Full Stack Developer with 2+ years of building production-grade web applications. Expert in <strong>React, Next.js, TypeScript, and modern web technologies</strong> for creating scalable, user-friendly applications with seamless experiences. Strong foundation in both frontend and backend development, with growing expertise in <strong>AI/ML integration</strong> and exploring agentic AI patterns. Passionate about clean code, DevOps practices, and leveraging cutting-edge technologies to solve real-world problems.
 </p>
 
-## 🤖 Agentic AI & Machine Learning
-Building autonomous AI systems that can reason, plan, and execute complex tasks:
-- 🧠 **Multi-Agent Systems**: Designing collaborative AI agents using LangChain, LangGraph, and CrewAI
-- 🔗 **RAG Pipelines**: Implementing advanced retrieval-augmented generation with vector databases (Pinecone, ChromaDB)
-- 🤝 **LLM Integration**: Working with GPT-4, Claude, Llama, and open-source models for intelligent automation
-- 🔄 **Agent Orchestration**: Creating autonomous workflows with tool-calling, memory, and decision-making capabilities
-- 🎯 **Prompt Engineering**: Crafting sophisticated prompts for chain-of-thought reasoning and task decomposition
+## 💻 Full Stack Development Expertise
+Building modern, scalable web applications with best practices:
+- ⚛️ **Frontend Mastery**: React, Next.js 14+, TypeScript, Redux, Zustand, TanStack Query for state management
+- 🎨 **UI/UX Excellence**: Tailwind CSS, Material-UI, Responsive Design, Component Libraries, Accessibility
+- 🔧 **Backend Development**: Node.js, Express, NestJS, FastAPI, GraphQL, RESTful APIs, Microservices
+- 🗄️ **Database & Data**: PostgreSQL, MongoDB, Redis, Prisma ORM, Elasticsearch for search
+- 🚀 **Performance**: Server-side rendering, static generation, code splitting, optimization techniques
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilall1&label=Profile%20views&color=0e75b6&style=flat" alt="bilall1" /> </p>
 
 ## 🚀 What I'm Building
 
-- 🤖 **Agentic AI Systems**: Multi-agent frameworks with LangChain, LangGraph, and autonomous task execution
-- 🧠 **Intelligent Automation**: RAG pipelines, vector search, and semantic understanding for enterprise applications
-- ⚡ **Scalable Web Apps**: High-performance applications with Next.js 14+, React Server Components, and edge computing
-- 🔄 **DevOps & CI/CD**: Automated deployment pipelines, containerization, and cloud infrastructure (AWS, Azure)
-- 🔐 **Auth & Real-time Systems**: Secure authentication flows and WebSocket-based real-time communication
+- 🌐 **Modern Web Applications**: High-performance React & Next.js apps with TypeScript, server components, and edge runtime
+- 🎨 **Beautiful UIs**: Responsive, accessible interfaces with Tailwind CSS, animations, and polished user experiences
+- 🔄 **DevOps & Infrastructure**: Docker, Kubernetes, GitHub Actions, CI/CD pipelines, AWS/Azure deployments
+- 🔐 **Real-time & Auth**: WebSocket systems, secure authentication flows, and distributed state management
+- 🤖 **AI Integration**: Exploring LLM APIs, intelligent features, and agentic patterns in web apps
 
 ## 💡 Core Expertise
 
-- 🌱 Currently deep-diving into **Advanced Agentic AI, Multi-Agent Systems, LLM Fine-tuning, and AI Agent Frameworks**
-- 🛠️ Building with **LangChain, LangGraph, CrewAI, OpenAI API, Anthropic Claude, Pinecone, ChromaDB**
-- 💻 Expert in **React, Next.js, TypeScript, Python, Go, Node.js, FastAPI, NestJS**
+- 💻 **Expert in**: React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Node.js, Express, NestJS
+- 🔧 **Backend**: Python, Go, FastAPI, GraphQL, REST APIs, PostgreSQL, MongoDB, Redis
+- 🚀 **DevOps**: Docker, Kubernetes, GitHub Actions, CI/CD, AWS, Azure, Vercel, Linux
+- 🌱 **Currently Learning**: Agentic AI architectures, LLM integration, vector databases, and intelligent automation
 
 - 👨‍💻 Portfolio & Projects: [mubilal.vercel.app](https://mubilal.vercel.app/)
 
-- 💬 Ask me about **Agentic AI, LangChain, Multi-Agent Systems, React, Next.js, RAG, Vector Databases, Go, CI/CD Pipelines**
+- 💬 Ask me about **React, Next.js, TypeScript, Full Stack Development, DevOps, Go, Python, CI/CD, and AI Integration**
 
 - 📫 Reach me at **muhammad.bilal0636@gmail.com**
 
 - 📄 Professional Background: [LinkedIn](https://www.linkedin.com/in/mbilal19/)
 
-## 🎯 Featured AI & Full Stack Projects
+## 🎯 Featured Projects
 
-### 🤖 Agentic AI & LLM Applications
-- **Multi-Agent Research System**: Autonomous agents collaborating to research, analyze, and synthesize information
-- **RAG-Powered Knowledge Base**: Semantic search with LangChain, vector embeddings, and LLM-based QA
-- **AI Task Orchestrator**: Dynamic agent workflows with tool-calling, memory, and adaptive planning
-- **LLM-Powered Automation**: Intelligent document processing, classification, and generation pipelines
-
-### 💻 Production Web Applications
+### 💻 Full Stack Web Applications
 - **Enterprise SaaS Platforms**: Scalable multi-tenant applications with Next.js, TypeScript, and microservices
 - **Real-time Collaboration Tools**: WebSocket-based systems with optimistic UI updates and conflict resolution
 - **E-commerce Solutions**: High-conversion platforms with advanced state management and payment integrations
@@ -60,16 +55,11 @@ Building autonomous AI systems that can reason, plan, and execute complex tasks:
 
 # 💻 Tech Stack & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-## 🤖 AI/ML & Agentic AI Stack
-**LLM Frameworks**: LangChain • LangGraph • LlamaIndex • CrewAI • AutoGen  
-**Vector Databases**: Pinecone • ChromaDB • Weaviate • Qdrant • FAISS  
-**AI Models**: OpenAI GPT-4 • Claude • Llama • Mistral • Hugging Face  
-**ML Tools**: PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy  
-
 ## 🌐 Full Stack Development
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,go,py,html,babel,bootstrap,css,pug,react,redux,sass,tailwind,materialui,nextjs,angular,vite,nodejs,express,graphql,nestjs,flask,fastapi,spring,elasticsearch,mongodb,mysql,postgres,redis,sqlite,firebase,jest,selenium,docker,kubernetes,githubactions,aws,azure,vercel,bash,discord,eclipse,git,github,heroku,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
 
-
+## 🤖 AI/ML Integration
+**Working with**: OpenAI API • AI-powered features • Vector Search • RAG patterns • Intelligent automation
 
 ## 📫 &nbsp;My Contacts
 <p align="left">
@@ -79,7 +69,7 @@ Building autonomous AI systems that can reason, plan, and execute complex tasks:
 </p>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/  github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
